@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body{
+    height: 100vh;
+    width: 100vw;
+}
+
+body{
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-image: url(../imagens/header-quejo.jpg);
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.685);
+
+}
+
+h1{
+
+    font-size: 3em;
+}
+h2{
+font-size: 2em;
+}
+
+p{
+    margin: 20px;
+}
+
+main{
+    text-align: center;
+}
+
+
